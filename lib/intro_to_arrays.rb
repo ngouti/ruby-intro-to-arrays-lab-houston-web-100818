@@ -24,4 +24,8 @@ def first_element_with_array_methods(array)
   return array.first()
 end
 
+def last_elemenent_with_array_methods(array)
+  return array.last()
+end
+
 def
