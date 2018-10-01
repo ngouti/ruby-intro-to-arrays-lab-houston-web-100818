@@ -28,4 +28,6 @@ def last_elemenent_with_array_methods(array)
   return array.last()
 end
 
-def
+def length_of_array(array)
+  return array.length()
+end
